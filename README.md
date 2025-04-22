@@ -10,17 +10,7 @@ This repository presents a clear and modular implementation of the Transformer a
 - **Self-Attention** — Allows each token to attend to every other token in the sequence.
 - **Multi-Head Attention** — Runs multiple attention mechanisms in parallel for richer representations.
 
-## 🧱 File Structure
 
-```
-transformer-pytorch/
-├── positional_encoding.py       # Sinusoidal positional encodings
-├── attention.py                 # Core attention mechanism
-├── self_attention.py            # Self-attention logic
-├── multi_head_attention.py      # Multi-head attention block
-├── demo.py                      # Sample forward pass
-└── README.md                    # Project overview
-```
 
 ## 📦 Setup
 
